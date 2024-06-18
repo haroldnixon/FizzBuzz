@@ -1,0 +1,12 @@
+#   Sudo Code
+#
+#  iterate varable i to 15
+#    numBuzz = anthing divisible by 3
+#    numFizz = anthing divisible by 5
+#    
+#    if numFizz { i = 'Fizz' }
+#    if numBuzz { i = 'Buzz' }
+#    if numFizz == numBuzz { i = 'FizzBuzz' }
+#
+#    print(i)
+#
